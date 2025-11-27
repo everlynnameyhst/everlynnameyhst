@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Vé SweZesty</h1>
+<h1 align="center">Hi, I'm Everlyn ` Amethyst</h1>
 <h3 align="center">Front End Developer | Bot Developer | Back End Developer | Ui/Ux Developer 🚀</h3>
 
 <br><br>
